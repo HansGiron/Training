@@ -1,12 +1,13 @@
 <?php
+        
 	//Escribe 3 sujetos
-	$item1="elefante";
-	$item2="leon";
-	$item3="venado";
+	$item1=$_GET['it1'];
+	$item2=$_GET['it2'];
+	$item3=$_GET['it3'];
 	//Escribe 3 complementos
-	$comp1="muere";
-	$comp2="juega";
-	$comp3="pelea";
+	$comp1=$_GET['cp1'];
+	$comp2=$_GET['cp2'];
+	$comp3=$_GET['cp3'];
 	{
 		echo "El $item1 salta cuando $comp1
 			<br>
