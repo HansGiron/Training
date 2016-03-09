@@ -35,6 +35,7 @@ table, th, td {
 				echo '<td>'.strlen($array[$i]).'</td>';
 			}
 		}	
+		
 
 	iniciar($frase)
 ?>

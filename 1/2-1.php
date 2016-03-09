@@ -33,7 +33,7 @@ table, th, td {
 					$resultado = proceso($n, $cons);
 					
 					echo '<tr>';
-					echo '<td>'.$n.'x'.$cons.'='.'<td>'.$resultado.'</td>';
+					echo '<td>'.$n.'x'. 		$cons.'='.'<td>'.$resultado.'</td>';
 					echo '</tr>';
 				
 
