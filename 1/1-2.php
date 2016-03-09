@@ -6,6 +6,8 @@
 		$phrase = implode(" ", $phrase);
 		print $phrase;
 	}
+
+	
 	if ($ini) {
 		frase($phrase);
 	}
