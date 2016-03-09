@@ -35,7 +35,8 @@ table, th, td {
 				echo '<td>'.strlen($array[$i]).'</td>';
 			}
 		}	
-		
+
+		//Esto solo es una prueba de git hub
 
 	iniciar($frase)
 ?>

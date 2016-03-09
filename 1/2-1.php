@@ -36,7 +36,7 @@ table, th, td {
 					echo '<td>'.$n.'x'. 		$cons.'='.'<td>'.$resultado.'</td>';
 					echo '</tr>';
 				
-
+					//Esto solo es una prueba de git hub
 
 				}
 			}
