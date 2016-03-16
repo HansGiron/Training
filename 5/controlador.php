@@ -1,4 +1,4 @@
-	<?php 
+<?php 
 	include ('config.php');
 	function obtener($indice){
 		foreach ($indice as $page) {
